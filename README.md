@@ -1,4 +1,4 @@
-# Zedtech: New Horizons
+# Zedtech: New Horizons Edition
 
 A port of Zederrian Technology to GT: New Horizons' version of Gregtech. Changes things to be a slightly more rugged and desaturated style. All original textures were made by Zerrens, any additional textures were created/repurposed by FyreofShadow or backported from Zedtech for Gregtech: Community Edition Unofficial for 1.12.2. 
  
